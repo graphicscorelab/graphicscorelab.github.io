@@ -56,6 +56,10 @@ Yes! There is no expectation of any formal training or qualifications in art or 
 
 This option is only possible if you are an octopus. During the workshop, players and makers will do separate exercises in the space at the same time, so you might find it tricky to multi-task, unless you have eight tentacles.
 
+## `"why is there so much mention of octopuses in this FAQ?"`
+
+This FAQ was written by someone who has spent too much time playing improvised music. They can no longer resist playing with the emergent themes and melodies of life. This side effect is fortunately irreversible.
+
 ## `"i still have questions..."`
 
 send us an email: graphicscorelab [at] proton [dot] me
