@@ -16,7 +16,7 @@
 
 # concept
 
-Graphic Score Laboratory is a cross-disciplinary workshop for people who play music (*score players*) and people who work with visual media (*score makers*). Score makers bring selected visual media to display in the space for score players to interpret as graphic musical scores.
+Graphic Score Laboratory is a cross-disciplinary workshop for people who play music (*score players*) and people who work with visual media (*score makers*). Score makers bring selected visual media to display in the space for score players to interpret as graphic musical scores. Through this format, Graphic Score Laboratory functions as a meeting space for artists and musicians.
 
 # FAQ
 
