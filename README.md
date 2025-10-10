@@ -1,12 +1,13 @@
 ![Single-Page Markdown Website](media/gsl_logo_clear_bg.png)
 
-# for musicians / instrumentalists and visual artists / composers / designers
+# for makers and players
 
-- Zero configuration
-- Render a table of contents, shortcuts to the top-level sections, and custom links
-- Include the contents of other Markdown files using a special syntax
-- Responsive from mobile and up
-- Dark mode (follows system settings)
+| score-makers | score-players |
+| ------------- | ------------- |
+| musicians  | visual artists  |
+| instrumentalists  | composers  |
+| performers | designers |
+| ... | ... |
 
 # Quick start
 
