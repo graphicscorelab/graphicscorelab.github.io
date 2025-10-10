@@ -37,7 +37,7 @@ Anyone who has a practice working with visual media can sign up to attend a Grap
 
 ## `"am i a score-player?"`
 
-You can join as a score player if you have a practice that involves playing music or sound. Whether you play drums, violin, oud, eurorack, mbira, guitar, lute, trombone... you are welcome in this space.
+You can join as a score player if you have a practice that involves playing music or sound. Whether you play drums, violin, oud, eurorack, mbira, voice, guitar, lute, trombone... you are welcome in this space. Likewise, you do not need to know how to read music and you do not need to have experience improvising. This workshop is designed to be accessible and enriching for a diversity of score players.
 
 ## `"can i join if i am self-taught?"`
 
@@ -49,7 +49,7 @@ This option is only possible if you are an octopus. During the workshop, players
 
 ## `"how is this different from a jam session?"`
 
-Graphic Score Laboratory is a workshop 
+Graphic Score Laboratory follows a structured workshop format where the facilitators guide participants through listening exercises, improvisation games, drawing exercises, etc.
 
 ## `"i still have questions..."`
 
