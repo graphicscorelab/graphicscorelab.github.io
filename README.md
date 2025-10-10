@@ -1,10 +1,8 @@
 ![Single-Page Markdown Website](media/gsl_logo_clear_bg.png)
 
-# for makers and players
+# for *score makers* and *score players*
 
-| score-makers | score-players |
-| ------------- | ------------- |
-| musicians  | visual artists  |
+musicians | visual artists
 | instrumentalists  | composers  |
 | performers | designers |
 | sound artists | textile artists |
