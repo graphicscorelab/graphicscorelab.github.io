@@ -2,9 +2,9 @@
 
 # for *score makers* and *score players*
 
-Are you a musician, visual artist, instrumentalist, composer, performer, designer, sound artist, textile artist, octopus, improvisor or photographer? If so, you may find yourself at Graphic Score Laboratory in the near future...
-
 # 15 November 2025 @ Pony Books, Tunnbindaregatan 19, Gothenburg Sweden
+
+Are you a musician, visual artist, instrumentalist, composer, performer, designer, sound artist, textile artist, octopus, improvisor or photographer? If so, you may find yourself at Graphic Score Laboratory in the near future...
 
 Graphic Score Laboratory is a cross-disciplinary workshop for people who play music (*score players*) and people who work with visual media (*score makers*). Score makers bring selected visual media to display in the space for score players to interpret as graphic musical scores. Through this format, Graphic Score Laboratory functions as a meeting space for artists and musicians.
 
