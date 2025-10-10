@@ -1,8 +1,6 @@
 ![Single-Page Markdown Website](media/gsl_logo_clear_bg.png)
 
-> Create a nice single-page documentation website from one or more Markdown files
-
-# Features
+# for musicians / instrumentalists and visual artists / composers / designers
 
 - Zero configuration
 - Render a table of contents, shortcuts to the top-level sections, and custom links
