@@ -54,11 +54,15 @@ Yes! There is no expectation of any formal training or qualifications in art or 
 
 ## `"i already know everything about graphic scores. should i still attend?"`
 
-The point of this workshop is not only to learn about graphic scores. Even if you are already a graphic score expert, you can still learn about the other people in the room, their practices and perspectives. If that isn't enough to convince you, maybe this will: Pony Books sells books and coffee. We will see you there.
+The point of this workshop is not only to learn about graphic scores. Even if you are already a graphic score expert, you can still learn a lot through the practices and perspectives of everyone in the room. Besides, we are actually launching Graphic Score Laboratory as an excuse to play music an doodle together, and network with people across disciplines. If that isn't enough to convince you, maybe this will: Pony Books sells books and coffee. We will see you there.
 
 ## `"can i attend as a score maker and a score player?"`
 
 This option is only possible if you are an octopus. During the workshop, players and makers will do separate exercises in the space at the same time, so you might find it tricky to multi-task, unless you have eight tentacles.
+
+## `"what do i need to bring?"`
+
+Score players should bring their instruments. Score makers should bring some visual media to display.
 
 ## `"why is there so much mention of octopuses in this FAQ?"`
 
