@@ -20,6 +20,10 @@ Score makers bring selected visual media to display in the space for score playe
 
 # FAQ
 
+## `"wow! this sounds amazing! i'm in! how do i sign up?"`
+
+Sign up by filling out this short form. Spaces are limited, so please 
+
 ## `"i don't know what a graphic score is... can i still attend?"`
 
 Yes! We will not throw you into the deep-end (unless you are an octopus). The workshop will begin with a short presentation introducing graphic scores. After that, we will get used to playing and making graphic scores together through exercises guided by the workshop leaders.
@@ -40,3 +44,6 @@ Yes! There is no expectation of any formal training or qualifications in art or 
 
 This option is only possible if you are an octopus. During the workshop, players and makers will do separate exercises in the space at the same time, so you might find it tricky to multi-task.
 
+## `"i still have questions..."`
+
+send us an email: graphicscorelab [at] proton [dot] me
