@@ -1,4 +1,4 @@
-![Single-Page Markdown Website](media/single-page-markdown-website.svg)
+![Single-Page Markdown Website](media/gsl_logo_clear_bg.png)
 
 > Create a nice single-page documentation website from one or more Markdown files
 
