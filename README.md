@@ -2,13 +2,13 @@
 
 # for *score makers* and *score players*
 
-## 15 November 2025 4pm - 6pm @ Pony Books, Tunnbindaregatan 19, Gothenburg Sweden
+## 15 November 2025 4pm - 6pm @ [Pony Books](https://www.instagram.com/pony_books_gbg/?hl=en), Tunnbindaregatan 19, Gothenburg Sweden
 
 Are you a musician, visual artist, instrumentalist, composer, performer, designer, sound artist, textile artist, octopus, improvisor or photographer? If so, your future may hold a Graphic Score Laboratory workshop...
 
 Graphic Score Laboratory is a cross-disciplinary workshop for people who play music (*score players*) and people who work with visual media (*score makers*). Score makers bring selected visual media to display in the space for score players to interpret as graphic musical scores. Through this format, Graphic Score Laboratory functions as a meeting space for artists and musicians.
 
-The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be facilitated by [Rachel Barron](https://www.rachel-barron.com/) and [Lucy Strauss](https://lucystrauss.com/). This event is part of [a full day of activities by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art (GIBCA) Extended program.](https://www.artka.se/events/solidarity-ecologies)
+The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be facilitated by [Rachel Barron](https://www.rachel-barron.com/) and [Lucy Strauss](https://lucystrauss.com/). This event is part of [a full day of activities](https://www.artka.se/events/solidarity-ecologies) by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art [(GIBCA) Extended](https://www.gibca.se/en/gibca-extended/programme/) program.
 
 # FAQ
 
