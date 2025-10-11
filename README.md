@@ -66,6 +66,10 @@ Given that space in the venue is limited, preference will be given to score make
 
 This FAQ was written by someone who has spent too much time playing improvised music. They can no longer resist playing with the emergent themes and melodies of life. This side effect is fortunately irreversible.
 
+### `"i can't attend this event. how can i stay in the loop about future Graphic Score Laboratory events?"`
+
+Sign up to our Substack newsletter: [@graphicscorelab](https://substack.com/@graphicscorelab?utm_campaign=profile&utm_medium=profile-page)
+
 ### `"i still have questions..."`
 
-send Lucy an email: [graphicscorelab [at] proton [dot] me](mailto:graphicscorelab@proton.me)
+Send Lucy an email: [graphicscorelab [at] proton [dot] me](mailto:graphicscorelab@proton.me)
