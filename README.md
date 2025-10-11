@@ -68,7 +68,7 @@ This FAQ was written by someone who has spent too much time playing improvised m
 
 ### `"i can't attend this event. how can i stay in the loop about future Graphic Score Laboratory events?"`
 
-Sign up to our Substack newsletter: [@graphicscorelab](https://substack.com/@graphicscorelab?utm_campaign=profile&utm_medium=profile-page)
+Sign up to receive our newsletter: [substack.com/@graphicscorelab](https://substack.com/@graphicscorelab)
 
 ### `"i still have questions..."`
 
