@@ -69,6 +69,7 @@ This FAQ was written by someone who has spent too much time playing improvised m
 ### `"how can i stay in the loop about future Graphic Score Laboratory events?"`
 
 Sign up to receive our newsletter: [substack.com/@graphicscorelab](https://substack.com/@graphicscorelab)
+Follow [@graphicscorelab](https://www.instagram.com/graphicscorelab/) on Instagram
 
 ### `"i still have questions..."`
 
