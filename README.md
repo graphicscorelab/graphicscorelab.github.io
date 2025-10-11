@@ -10,7 +10,7 @@ Graphic Score Laboratory is a cross-disciplinary workshop for people who play mu
 
 The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be facilitated by [Rachel Barron](https://www.rachel-barron.com/) and [Lucy Strauss](https://lucystrauss.com/). This event is part of [a full day of activities](https://www.artka.se/events/solidarity-ecologies) by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art [(GIBCA) Extended](https://www.gibca.se/en/gibca-extended/programme/) program.
 
-# `"🄵🄰🅀"`
+# `"FAQ"`
 
 ### `"wow! this sounds incredible! i'm in! how do i sign up?"`
 
