@@ -54,7 +54,7 @@ This option is only possible if you are an octopus. During the workshop, players
 
 ### `"what do i need to bring?"`
 
-Score makers should bring some visual media to display (eg. a painting; a drawing; a scanned print of your original artwork; a photograph; a laptop to display a digital artwork, etc). Please also bring any materials you would like to work with during the workshop, such as paper, watercolours, charchoal, etc.
+Score makers should bring some visual media to display (eg. a painting; a drawing; a scanned print of your original artwork; a photograph; a laptop to display a digital artwork, etc). We will provide basic materials for sketching / drawing, but please also bring any specific materials you would like to work with during the workshop.
 
 Score players should bring their instruments, including everything they need to make a sound (amps, audio interfaces, etc.)
 
