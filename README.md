@@ -68,4 +68,4 @@ This FAQ was written by someone who has spent too much time playing improvised m
 
 ### `"i still have questions..."`
 
-send Lucy an email: graphicscorelab [at] proton [dot] me
+send Lucy an email: [graphicscorelab [at] proton [dot] me](mailto:graphicscorelab@proton.me)
