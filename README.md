@@ -18,7 +18,7 @@ Sign up by filling out this short form. Spaces are limited.
 
 ### `"what is a graphic score?"`
 
-A musical *score* is the written, printed form of a musical composition. We can think of a score as a prompt, or a set of instructions for playing music. Instead of traditional music notation of notes ♫ and chords, *graphic* scores indicate musical ideas with visual elements such as lines, shapes, dots, images, etc.
+A musical *score* is the written, printed form of a musical composition. We can think of a score as a prompt, or a set of instructions for playing music. Instead of traditional music notation of notes 𝄞♫ and chords, *graphic* scores indicate musical ideas with visual elements such as lines, shapes, dots, images, etc.
 
 ### `"i still don't know what a graphic score is... can i still attend?"`
 
