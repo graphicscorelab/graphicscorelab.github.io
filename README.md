@@ -8,7 +8,7 @@ Are you a musician, visual artist, instrumentalist, composer, performer, designe
 
 Graphic Score Laboratory is a cross-disciplinary workshop for people who play music (*score players*) and people who work with visual media (*score makers*). Score makers bring selected visual media to display in the space for score players to interpret as graphic musical scores. Through this format, Graphic Score Laboratory functions as a meeting space for artists and musicians.
 
-The inaugural Graphic Score Laboratory workshop on 15.11.2025 will take place as part of a full day of activities by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art (GIBCA) Extended program.
+The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be facilitated by Rachel Barron and Lucy Strauss. This event is part of a full day of activities by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art (GIBCA) Extended program.
 
 # FAQ
 
@@ -68,4 +68,4 @@ This FAQ was written by someone who has spent too much time playing improvised m
 
 ### `"i still have questions..."`
 
-send us an email: graphicscorelab [at] proton [dot] me
+send Lucy an email: graphicscorelab [at] proton [dot] me
