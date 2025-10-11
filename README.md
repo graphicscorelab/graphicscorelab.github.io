@@ -2,11 +2,13 @@
 
 # for *score makers* and *score players*
 
-# 15 November 2025 @ Pony Books, Tunnbindaregatan 19, Gothenburg Sweden
+## 15 November 2025 4pm - 6pm @ Pony Books, Tunnbindaregatan 19, Gothenburg Sweden
 
 Are you a musician, visual artist, instrumentalist, composer, performer, designer, sound artist, textile artist, octopus, improvisor or photographer? If so, your future may hold a Graphic Score Laboratory workshop...
 
 Graphic Score Laboratory is a cross-disciplinary workshop for people who play music (*score players*) and people who work with visual media (*score makers*). Score makers bring selected visual media to display in the space for score players to interpret as graphic musical scores. Through this format, Graphic Score Laboratory functions as a meeting space for artists and musicians.
+
+The inaugural Graphic Score Laboratory workshop on 15.11.2025 will take place as part of a full day of activities by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art (GIBCA) Extended program.
 
 # FAQ
 
@@ -20,7 +22,7 @@ A musical *score* is the written, printed form of a musical composition. We can 
 
 ### `"i still don't know what a graphic score is... can i still attend?"`
 
-Yes! We will not throw you into the deep-end (unless you are an octopus). The workshop will begin with a short presentation introducing graphic scores. After that, we will get used to playing and making graphic scores together through exercises guided by the workshop leaders.
+Yes! We will not throw you into the deep-end (unless you are an octopus). The workshop will begin with a short introduction to graphic scores. After that, we will get used to playing and making graphic scores together through guided exercises.
 
 ### `"how is this different from a jam session?"`
 
@@ -28,7 +30,7 @@ Graphic Score Laboratory follows a structured workshop format where the facilita
 
 ### `"what can i hope to gain by taking part?"`
 
-Graphic Score Laboratory is experimental both in its content and concept. That being said, we hope you will leave the workshop with a refreshed feeling of inspiration; a new set of skills in playing, making and listening; and maybe even some new friends and foes.
+Graphic Score Laboratory is experimental both in its content and concept, so expect the unexpected! That being said, we hope you will leave the workshop with a refreshed feeling of inspiration; a new set of skills in playing, making and listening; and maybe even some new friends and foes.
 
 ### `"am i a score-maker?"`
 
@@ -44,15 +46,21 @@ Yes! There is no expectation of any formal training or qualifications in art or 
 
 ### `"i already know everything about graphic scores. should i still attend?"`
 
-The point of this workshop is not only to learn about graphic scores. Even if you are already a graphic score expert, you can still learn a lot through the practices and perspectives of everyone in the room. Besides, we are actually launching Graphic Score Laboratory as an excuse to play music an doodle together, and network with people across disciplines. If that isn't enough to convince you, maybe this will: Pony Books sells books and coffee. We will see you there.
+The purpose of this workshop is not only to learn about graphic scores. Even if you are already a graphic score expert, you can still learn a lot through the practices and perspectives of everyone in the room. Besides, we are actually launching Graphic Score Laboratory as an excuse to play music an doodle together, while networking with people across disciplines. If that isn't enough to convince you, maybe this will: Pony Books sells books and coffee. We will see you there.
 
 ### `"can i attend as a score maker and a score player?"`
 
-This option is only possible if you are an octopus. During the workshop, players and makers will do separate exercises in the space at the same time, so you might find it tricky to multi-task, unless you have eight tentacles.
+This option is only possible if you are an octopus. During the workshop, players and makers will do different exercises in the space at the same time, so you might find it tricky to multi-task, unless you have eight tentacles. Get in touch if you would like to attend, but still can't decide.
 
 ### `"what do i need to bring?"`
 
-Score players should bring their instruments. Score makers should bring some visual media to display.
+Score makers should bring some visual media to display (eg. a painting; a drawing; a scanned print of your original artwork; a photograph; a laptop to display a digital artwork, etc). Please also bring any materials you would like to work with during the workshop, such as paper, watercolours, charchoal, etc.
+
+Score players should bring their instruments, including everything they need to make a sound (amps, audio interfaces, etc.)
+
+### `"if i am not a score maker or player, can i attend as an audience member?"`
+
+Given that space in the venue is limited, preference will be given to score makers and players to sign up for spots at the workshop. We will release a limited number of audience tickets a week before the event. Fill out this short form if you would like to be notified when audience tickets become available.
 
 ### `"why is there so much mention of octopuses in this FAQ?"`
 
