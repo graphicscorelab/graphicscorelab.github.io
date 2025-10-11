@@ -20,7 +20,9 @@ Sign up by filling out this short form. Spaces are limited.
 
 A musical *score* is the written, printed form of a musical composition. We can think of a score as a prompt, or a set of instructions for playing music. Instead of traditional music notation of notes 𝄞♫ and chords, *graphic* scores indicate musical ideas with visual elements such as lines, shapes, dots, images, etc. ▁▂▃▄▅▆▇█▐▕ ▔▀ ░▒▓▗▖▝▘▙▟ ▛▜ ▚▞ ░▒▓█▓▒░
 
-Have you ever looked at a beaded tapestry and wondered what it would sound like if it was interpreted as a set of instructions for playing music? Of course you have! Graphic Score Laboratory takes the above definition of graphic scores as a starting point for a broad and inclusive understanding of what a graphic score could be. In this space, we consider visual media as scores even if they were not intended as scores originally.
+Graphic Score Laboratory takes the above definition as a starting point for a broad and inclusive understanding of what a graphic score could be. In this space, we consider visual media as scores even if they were not intended as scores originally...
+
+Have you ever looked at a beaded tapestry and wondered what it would sound like if it was interpreted as a set of instructions for playing music? Of course you have!
 
 ### `"i still don't know what a graphic score is... can i still attend?"`
 
