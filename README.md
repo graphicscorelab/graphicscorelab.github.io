@@ -1,6 +1,6 @@
 ![Single-Page Markdown Website](media/gsl_logo_clear_bg.png)
 
-# 𝖋𝖔𝖗 𝖘𝖈𝖔𝖗𝖊 𝖕𝖑𝖆𝖞𝖊𝖗𝖘 𝖆𝖓𝖉 𝖘𝖈𝖔𝖗𝖊 𝖒𝖆𝖐𝖊𝖗𝖘
+# for score makers and score players
 
 ## 15 November 2025 4pm - 6pm @ [Pony Books](https://www.instagram.com/pony_books_gbg/?hl=en), Tunnbindaregatan 19, Gothenburg Sweden
 
