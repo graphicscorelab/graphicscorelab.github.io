@@ -14,9 +14,7 @@ The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be facilitate
 
 ### `"wow! this sounds incredible! i'm in! how do i sign up?"`
 
-Sign up by filling out this short form. Spaces are limited.
-
-https://www.eventbrite.com/e/graphic-score-laboratory-pony-books-artist-network-gibca-extended-biljetter-1809093560539?aff=oddtdtcreator
+[Sign up here!](https://www.eventbrite.com/e/graphic-score-laboratory-pony-books-artist-network-gibca-extended-biljetter-1809093560539?aff=oddtdtcreator)
 
 ### `"what is a graphic score?"`
 
