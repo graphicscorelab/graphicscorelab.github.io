@@ -16,6 +16,8 @@ The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be facilitate
 
 Sign up by filling out this short form. Spaces are limited.
 
+https://www.eventbrite.com/e/graphic-score-laboratory-pony-books-artist-network-gibca-extended-biljetter-1809093560539?aff=oddtdtcreator
+
 ### `"what is a graphic score?"`
 
 A musical *score* is the written, printed form of a musical composition. We can think of a score as a prompt, or a set of instructions for playing music. Instead of traditional music notation of notes 𝄞♫ and chords, *graphic* scores indicate musical ideas with visual elements such as lines, shapes, dots, images, etc. ▁▂▃▄▅▆▇█▐▕ ▔▀ ░▒▓▗▖▝▘▙▟ ▛▜ ▚▞ ░▒▓█▓▒░
