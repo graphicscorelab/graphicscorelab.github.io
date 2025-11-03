@@ -67,6 +67,7 @@ Score players should bring their instruments, including everything they need to 
 Yes! This event is part of a full day of activities at Pony Books (11am to 5pm), which is open to everyone. Just swing by on the day and arrive early to check out the other workshops of the Pony Books Artist Network:
 
 [Conflict!!!](https://www.instagram.com/p/DQg5qW6iKNJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 [Tools for maintaining utopias](https://www.instagram.com/p/DQexeZEiFWz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ### `"why is there so much mention of octopuses in this FAQ?"`
