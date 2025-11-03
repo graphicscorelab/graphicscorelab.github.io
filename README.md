@@ -8,7 +8,7 @@ Are you a musician, visual artist, instrumentalist, composer, performer, designe
 
 Graphic Score Laboratory is a cross-disciplinary workshop for people who play music (*score players*) and people who work with visual media (*score makers*). Score makers bring selected visual media to display in the space for score players to interpret as graphic musical scores. Through this format, Graphic Score Laboratory functions as a meeting space for artists and musicians.
 
-The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be facilitated by [Rachel Barron](https://www.rachel-barron.com/) and [Lucy Strauss](https://lucystrauss.com/). This event is part of [a full day of activities](https://www.artka.se/events/solidarity-ecologies) by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art [(GIBCA) Extended](https://www.gibca.se/en/gibca-extended/programme/) program.
+The inaugural Graphic Score Laboratory workshop on 15.11.2025 will be held in English and facilitated by [Rachel Barron](https://www.rachel-barron.com/) and [Lucy Strauss](https://lucystrauss.com/). This event is part of [a full day of activities](https://www.artka.se/events/solidarity-ecologies) by the Pony Books Artist Network for the Göteborg International Biennial for Contemporary Art [(GIBCA) Extended](https://www.gibca.se/en/gibca-extended/programme/) program. This event is realised with the support of Kultur Ungdom.
 
 # `"FAQ"`
 
@@ -64,7 +64,10 @@ Score players should bring their instruments, including everything they need to 
 
 ### `"if i am not a score maker or player, can i attend as an audience member?"`
 
-Given that space in the venue is limited, preference will be given to score makers and players to sign up for spots at the workshop. We will release a limited number of audience tickets a week before the event. Fill out this short form if you would like to be notified when audience tickets become available.
+Yes! This event is part of a full day of activities at Pony Books (11am to 5pm), which is open to everyone. Just swing by on the day and arrive early to check out the other workshops of the Pony Books Artist Network:
+
+[Conflict!!!](https://www.instagram.com/p/DQg5qW6iKNJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[Tools for maintaining utopias](https://www.instagram.com/p/DQexeZEiFWz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ### `"why is there so much mention of octopuses in this FAQ?"`
 
