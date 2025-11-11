@@ -1,4 +1,4 @@
-![Single-Page Markdown Website](media/gsl_logo_clear_bg.png)
+![Single-Page Markdown Website](media/IMG_9578.jpeg)
 
 # for score makers and score players
 
